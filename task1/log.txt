@@ -1,0 +1,11 @@
+commit d0c9e9dc407cdb8c1095b431b9d6e24f6ea9c624
+Author: veralin planze <Кветко Никита>
+Date:   Tue Feb 12 14:07:56 2019 +0300
+
+    task1/status.txt
+
+commit ca9dc402cb6d2828003dc970c27eb66351e63b17
+Author: veralin planze <Кветко Никита>
+Date:   Tue Feb 12 13:55:49 2019 +0300
+
+    your msg
